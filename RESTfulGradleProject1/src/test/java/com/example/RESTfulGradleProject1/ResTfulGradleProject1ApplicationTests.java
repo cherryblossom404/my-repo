@@ -11,6 +11,7 @@ public class ResTfulGradleProject1ApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		// adding dummy line of code
 	}
 
 }
